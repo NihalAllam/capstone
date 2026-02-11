@@ -78,3 +78,10 @@ Establishing a clean, leakage-free baseline before expanding to:
 
 Baseline pipeline implemented.
 Further expansion planned after validation of initial results.
+
+## Current Progress
+
+- Clean pipeline implemented
+- Raw vs Drop Rows vs Mean Imputation comparison completed
+- Logistic Regression baseline evaluated
+- Data leakage removed from preprocessing
